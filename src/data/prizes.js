@@ -3,6 +3,7 @@ const giftFiles = [
   "/Gift/KHÚC HÁT MỪNG SINH NHẬT - PHAN ĐINH TÙNG ( OFFICIAL VIDEO) - Phan Đinh Tùng.mp3",
   "/Gift/Trình birthday (by Nhạc Vô Tri))) - Zô Tri Music)).mp3",
   "/Gift/Bai-hat-Happy-SnapYT.App.mp4",
+  "/Gift/kling_20261030_VIDEO_Duration___3331_0.mp4"
 ];
 
 function typeFromSrc(src) {

@@ -30,8 +30,8 @@ export default function GreetingCard() {
             <p>Lan Phương</p>
           </div>
           <div className="card-face card-back">
-            <h3>Gửi Phương</h3>
-            <p>Hôm nay thế giới như dịu hơn một nhịp, vì có thêm một năm em ở đây — rạng rỡ, ấm áp, và rất đáng được yêu.</p>
+            <h3>Gửi Lan Phương</h3>
+            <p>Hôm nay thế giới như dịu hơn một nhịp, vì có thêm một năm em ở đây, rạng rỡ, ấm áp, và rất đáng được yêu.</p>
             <p>Chúc mọi điều em thầm mong đều nở như hoa, chúc tim em luôn được giữ nhẹ, và mỗi bình minh đều có lý do để mỉm cười.</p>
             <p>Sinh nhật vui vẻ. Mãi là ánh hồng giữa đêm đen.</p>
           </div>
