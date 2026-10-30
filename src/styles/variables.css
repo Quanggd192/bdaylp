@@ -1,0 +1,14 @@
+:root {
+  --bg: #0a0a0a;
+  --bg-soft: #1a0d12;
+  --pink: #ff4d8d;
+  --pink-mid: #ff8fb3;
+  --pink-soft: #ffd6e7;
+  --cream: #fff4f8;
+  --muted: #c9a3b0;
+  --gold: #ffd6a8;
+  --shadow: rgba(255, 77, 141, 0.35);
+  --font-script: "Great Vibes", cursive;
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Outfit", sans-serif;
+}
